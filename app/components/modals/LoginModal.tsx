@@ -70,7 +70,7 @@ const LoginModal = () => {
     const bodyContent = (
         <div className="flex flex-col gap-4">
             <Heading 
-                title="Shayne's B&B"
+                title="Shayne's b&b"
                 subtitle="Login to your Account"
             />
             <Input 
